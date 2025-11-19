@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import project3 from '../../assets/ijazah.jpg';
-import backgroundImage from '../../assets/gambar2.jpg';
+import project3 from '../../assets/ijazah-5a548f00.jpg';
+import backgroundImage from '../../assets/gambar2-6ace7fca.jpg';
 
 const Profile: React.FC = () => {
   return (

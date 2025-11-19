@@ -1,12 +1,12 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import project1 from '../../assets/blui1.png';
-import project2 from '../../assets/gambar5.jpg';
-import project3 from '../../assets/gambar6.jpg';
-import project4 from '../../assets/selenium.jpg';
+import project1 from '../../assets/blui1-95a221c9.png';
+import project2 from '../../assets/gambar5-92b0264d.jpg';
+import project3 from '../../assets/gambar6-437cf14a.jpg';
+import project4 from '../../assets/selenium-915a59a6.jpg';
 import { Link } from 'react-router-dom';
 import arrowRight from '../../assets/Vector2.png';
-import backgroundImage from '../../assets/gambar2.jpg';
+import backgroundImage from '../../assets/gambar2-6ace7fca.jpg';
 
 
 const Project: React.FC = () => {

@@ -1,11 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import profilePic from '../../assets/gambar9-974950cf.png';
-import instagramIcon from '../../assets/instagram-901f63db.png';
+import profilePic from '../../assets/gambar9.png';
+import instagramIcon from '../../assets/instagram.png';
 import gmailIcon from '../../assets/gmail.png';
 import linkedinIcon from '../../assets/linkedin.png';
 import phoneIcon from '../../assets/phone.png';
-import backgroundImage from '../../assets/gambar2-6ace7fca.jpg';
+import backgroundImage from '../../assets/gambar2.jpg';
 
 const Contact: React.FC = () => {
   const contactItemVariants = {

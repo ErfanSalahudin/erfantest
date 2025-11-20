@@ -35,11 +35,11 @@ const InteractiveBackground = (): ReactElement => {
           left: mousePosition.x,
           top: mousePosition.y,
           transform: 'translate(-50%, -50%)',
-          width: '100px', /* Adjust size as needed */
-          height: '100px', /* Adjust size as needed */
+          width: '100px', 
+          height: '100px', 
           borderRadius: '50%',
           background: 'radial-gradient(circle, rgba(0,255,255,0.5) 0%, rgba(0,255,255,0) 70%)', /* Cyan glow */
-          filter: 'blur(30px)', /* Adjust blur as needed */
+          filter: 'blur(30px)', 
           pointerEvents: 'none',
         }}
       ></div>

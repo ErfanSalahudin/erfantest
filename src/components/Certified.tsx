@@ -1,9 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import cert1 from '../../assets/gambar7-ce18d1e9.jpg';
-import cert2 from '../../assets/gambar8-1c08e240.jpg';
+import cert1 from '../../assets/gambar7.jpg';
+import cert2 from '../../assets/gambar8.jpg';
 import arrowRight from '../../assets/Vector2.png';
-import backgroundImage from '../../assets/gambar2-6ace7fca.jpg';
+import backgroundImage from '../../assets/gambar2.jpg';
 
 
 const Certified: React.FC = () => {
